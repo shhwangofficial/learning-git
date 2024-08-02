@@ -13,3 +13,5 @@ def divide_premium(a, b):
         return("error!")
     return a/b 
 
+def sayHi():
+    print("Hi")
