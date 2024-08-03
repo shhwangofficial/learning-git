@@ -15,3 +15,6 @@ def divide_premium(a, b):
 
 def get_median(a, b):
     return (a+b)/2
+
+def get_quotient(a, b):
+    return a//b
