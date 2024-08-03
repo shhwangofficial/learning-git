@@ -15,3 +15,6 @@ def divide_premium(a, b):
 
 def get_median(a, b):
     return (a+b)/2
+
+def get_sum_ver1(n):
+    return n(n+1)/2
