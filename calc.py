@@ -18,3 +18,9 @@ def get_median(a, b):
 
 def get_quotient(a, b):
     return a//b
+
+def get_abs(num):
+    if num >=0:
+        return num
+    else:
+        return -num
