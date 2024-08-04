@@ -8,9 +8,7 @@ def subtract(a, b):
 def multiply(a, b):
     return a * b
 
-def divide_premium(a, b):
-    if b == 0:
-        return("error!")
+def divide_free(a, b):
     return a/b 
 
 def get_median(a, b):
