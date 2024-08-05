@@ -43,4 +43,4 @@ def factorial(n):
     return num
 
 def testing():
-    return
+    return 2
